@@ -14,7 +14,7 @@ This repo contains a simple project covering the basics of React such as:
 - HTTP requests
 - Routing
 
-For starting the frontend you need to run the following commands:
+For starting the frontend you need to run the following commands inside the _frontend_ folder:
 
 ```
 npm install
@@ -23,7 +23,7 @@ npm run dev
 
 The React app communicates with a Node.js BE located in the backend folder.
 
-To start the backend run the following commands:
+To start the backend run the following commands inside the _backend_ folder:
 
 ```
 npm install
