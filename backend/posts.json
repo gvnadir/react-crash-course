@@ -1,1 +1,6 @@
-{"posts":[{"body":"some text","author":"gianluca","id":"0.4468001674016231"}]}
+{
+  "posts": [
+    { "body": "another text", "author": "Max", "id": "0.3440757764202347" },
+    { "body": "Some text", "author": "Gianluca", "id": "0.9779765716508677" }
+  ]
+}

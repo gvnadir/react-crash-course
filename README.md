@@ -12,7 +12,12 @@ This repo contains a simple project covering the basics of React such as:
 - Children
 - useEffect()
 - HTTP requests
-- Routing
+- React Router
+  - Link
+  - Navigation
+  - Loader
+  - Action
+  - Form
 
 For starting the frontend you need to run the following commands inside the _frontend_ folder:
 
