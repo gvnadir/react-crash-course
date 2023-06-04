@@ -29,6 +29,13 @@
   gap: 0.5rem;
 }
 
+.actions a {
+  background-color: transparent;
+  text-decoration: none;
+  color: #e5d5f7;
+  margin: auto 0;
+}
+
 .actions button {
   cursor: pointer;
   font: inherit;
